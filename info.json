@@ -1,0 +1,14 @@
+{
+  "name": "splitter-utils",
+  "version": "1.0.0",
+  "title": "Splitter Utilities",
+  "description": "Adds options to change how splitters function.",
+  "author": "protocol_1903",
+  "contact": "https://discord.gg/K3fXMGVc4z",
+  "homepage": "https://github.com/protocol-1903/splitter-utils",
+  "factorio_version": "2.1",
+  "dependencies": [
+    "base >= 2.1.25",
+    "perel >= 1.2.0"
+  ]
+}
