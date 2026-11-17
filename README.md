@@ -4,11 +4,11 @@ This mod is the splitter variant of [Loader Utils](https://mods.factorio.com/mod
 
 # Modes
 
-![exchange input lines example](https://github.com/protocol-1903/web-host-things/blob/c3911886bdbe7b934151c0da38ccf0f2f7251167/splitter%20utils%20output%20exchange.png?raw=true)
+![exchange input lines example](https://github.com/protocol-1903/web-host-things/blob/c3911886bdbe7b934151c0da38ccf0f2f7251167/splitter%20utils%20input%20exchange.png?raw=true)
 
 Exchange input lines swaps the two internal lanes of a splitter input. So the inner left lane becomes the inner right lane and vice versa, then normal splitter mechanics are applied and See above examples.
 
-![exchange output lines example](https://github.com/protocol-1903/web-host-things/blob/c3911886bdbe7b934151c0da38ccf0f2f7251167/splitter%20utils%20input%20exchange.png?raw=true)
+![exchange output lines example](https://github.com/protocol-1903/web-host-things/blob/c3911886bdbe7b934151c0da38ccf0f2f7251167/splitter%20utils%20output%20exchange.png?raw=true)
 
 Exchange output lines swaps the two internal lanes of a splitter output. So what would normally be the inner left lane after normal splitter logic is now the inner right lane, and vice versa. See above examples.
 
