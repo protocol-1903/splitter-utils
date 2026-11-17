@@ -2,7 +2,7 @@
 
 This mod is the splitter variant of [Loader Utils](https://mods.factorio.com/mod/loader-utils), which adds custom variants of each splitter that can be chosen during gameplay as desired.
 
-![showcase](https://github.com/protocol-1903/web-host-things/blob/65d8321bae85aac5755de19e49aeff6306f493cf/splitter-utils.gif?raw=true)
+![showcase](https://github.com/protocol-1903/web-host-things/blob/aba2db9f6ff2219b3a09e233bfd13d01831c0364/splitter-utils.gif?raw=true)
 
 # Modes
 
